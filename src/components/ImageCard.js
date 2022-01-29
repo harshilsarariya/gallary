@@ -83,6 +83,7 @@ const ImageCard = (props) => {
                       width: 155,
                       height: 150,
                       marginTop: 20,
+                      marginLeft: 5,
                     }}
                     source={item.add}
                   >
